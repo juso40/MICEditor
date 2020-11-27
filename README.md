@@ -18,6 +18,10 @@ To update the list of loaded ``MaterialInstanceConstant``s use the ``Update Mate
 You can either double click the values to edit them using Keyboard or drag and slide them. Some buttons will open up a new window, there can always be only one child window, so make sure to close it when you don't need it anymore.
 To export the Mod open up the ``Export To File`` tab and type chose a name for your exported files name. After pressing the ``Export`` button the file should be located in your games ``Binaries/`` directory. 
 
+If you are trying to edit some objects in the game world, i suggest to look directly at it, then using the ``freezeat here`` console command. 
+This will stop your camera from moving. To unfreeze the camera simply use the ``freezeat`` console command.
+
+
 -------------------------------
 ### Contact me
 - Discord `juso#6352`
